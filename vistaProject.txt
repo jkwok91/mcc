@@ -1,0 +1,54 @@
+McCoppin Square
+Vista Project
+
+Objective: turn erosion hill/wasteland into vista point for baseball game
+
+Background:
+This hillside, located at the corner of Santiago and 24th Ave, is the perfect spot to view the baseball field. On a clear day the view of faraway residential neighborhoods provides a nice backdrop. It is somewhat protected by large Monterey cypresses, but still receives full afternoon sun.
+I would like to plant some wind-tolerant and sand-tolerant plants that are good at stabilizing a hillside. In addition, I intend to create a path zig-zagging up the hillside. I also plan to terrace (create three or four levels) and use logs and branches to create retaining walls.
+Furthermore, I would like to experiment with some permaculture techniques used in creating hugelkultur. Specifically, creating piles of logs filled in by manure/grass clippings/high nitrogen materials, and then overlaid with soil in which plants can be planted.
+
+Materials:
+- 12 yards of grindings mulch
+- 6 yards of yellow mulch
+- 20? yards of soil
+- manure
+- logs, assorted
+- stumps, assorted
+- 30+ stakes
+- 100+ plants
+
+Tools:
+- water source and hose
+- round point shovel
+- bow rake
+- spade
+- mcleod
+- sledgehammer for driving stakes
+- wheelbarrow for loading mulch and soil
+- pitchfork and scoop for loading mulch
+
+Plants:
+- Ribes
+-- Spiraea
+-- Holodiscus discolor
+- Diplacus
+- Lupinus
+- Fragaria
+- Heuchera
+-- Tellima
+-- Penstemon
+-- Salvia spathecea
+
+Implementation:
+First, we will determine where to remove soil, to form steps or plateaus. Simultaneously we will weed the hillside of nasturtium, foxtail(?), mallow, and other undesirables.
+Next, we will lay the largest logs (potentially dig out a trench to make them fit more snugly) and stake them in place.
+Then, we will lay the smaller logs or branch debris atop the areas that we have terraced. Following that, we will wet everything down. Then we will add manure on top of the debris and wet it down further. Then we will add grass clippings and wet it again.
+Then we will add soil, and wet it again. Then we can add some stumps to build up the topography, and add soil to fill in the gaps, and wet everything down.
+Then we will continue to add soil until a sufficient layer has been created for planting in.Lastly we will plant and then mulch. For the path and areas where people are encouraged to be, we will use yellow mulch.
+
+More info on techniques:
+- Hugelkultur: the idea I am basing my rough technique off is that logs will hold water and decompose over time beneath the layers of nitrogen-material and soil. In addition, the nitrogen-heavy material will stimulate decomposition, which will break down organic matter into minerals and nutrients. The plants that grow on top will thus be fed both by the moisture and organic matter. [Cite permaculture resources]
+- Retaining wall and terracing: I am slowing the rate at which water will move down this hill by decreasing the grade in several large areas. In addition, I am adding stumps to further inhibit runoff. [Cite bay friendly]
+- Plant choice: I am specifically selecting a range of fast and slow growing, long- and short-lived plants, to fill in the space. By reducing amount of exposed ground, erosion can be reduced. Also I have checked to make sure these plants can survive in sandy soil, and live together in cohesive plant community. [Cite Las Pilitas]
+  - https://www.laspilitas.com/nature-of-california/communities/closed-cone-pine-forest/plants
