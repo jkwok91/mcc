@@ -46,14 +46,20 @@ We will mark the intended swales with stakes, and then dig out the soil a foot o
 Next, we will lay the largest logs (potentially dig out a trench to make them fit more snugly) behind the stakes.
 Then, we will lay the smaller logs or branch debris atop the areas that we have terraced. Following that, we will wet everything down. Then we will add manure on top of the debris and wet it down further. Then we will add grass clippings and wet it again.
 Then we will add soil, and wet it again. Then we can add some stumps to build up the topography, and add soil to fill in the gaps, and wet everything down.
-Then we will continue to add soil until a sufficient layer has been created for planting in.Lastly we will plant and then mulch. For the path and areas where people are encouraged to be, we will use yellow mulch.
+Then we will continue to add soil until a sufficient layer has been created for planting in. Lastly we will plant and then mulch. For the path and areas where people are encouraged to be, we will use yellow mulch.
+
+Important considerations:
+- create a path because people will naturally want to walk in this area; it is easier to guide them than to prevent them
+  - bonus: path will be good for maintenance access, either via foot or wheelbarrow
+- no irrigation: must hook up a hose and water everything in real good during install. after this we must rely on rainfall. make sure organic materials are soaking up as much water as possible.
+
 
 More info on techniques:
-- Hugelkultur: the idea I am basing my rough technique off is that logs will hold water and decompose over time beneath the layers of nitrogen-material and soil. In addition, the nitrogen-heavy material will stimulate decomposition, which will break down organic matter into minerals and nutrients. The plants that grow on top will thus be fed both by the moisture and organic matter. [Cite permaculture resources]
+- Hugelkultur: the idea I am basing my rough technique off is that logs will hold water and decompose over time beneath the layers of nitrogen-material and soil. In addition, the nitrogen-heavy material will stimulate decomposition, which will break down organic matter into minerals and nutrients. The plants that grow on top will thus be fed both by the moisture and organic matter.
 - Retaining water and using swales: “If a long, yard-spanning swale is impossible because of trees and other obstacles, a series of short, overlapping swales above and below the obstacles will work. These are called fish-scale swales.”
 
 Excerpt From: Toby Hemenway. “Gaia's Garden.” Apple Books.
-- Retaining wall and terracing: I am slowing the rate at which water will move down this hill by decreasing the grade in several large areas. In addition, I am adding stumps to further inhibit runoff. [Cite bay friendly]
+- Retaining wall and terracing: I am slowing the rate at which water will move down this hill by decreasing the grade in several large areas. In addition, I am adding stumps to further inhibit runoff.
 “The terraces also help to stop valuable humus from being washed away or otherwise lost. Finally, they help to prevent soil erosion and make a considerable contribution to the health and fertility of the soil. When making a terrace it is very important to minimise the number of dead ends. If possible every terrace should form a continuous belt of land, so that the terraces can be worked using the least amount of energy.”
 
 Excerpt From: Sepp Holzer. “Sepp Holzer's Permaculture.” Apple Books. 
